@@ -1,0 +1,12 @@
+{
+    "structure": {
+        "readme": "netdata-welcome.md"
+    },
+    "plugins": ["anchorjs"],
+    "pluginsConfig": {
+        "anchorjs": {
+            "placement": "left",
+            "visible": "always"
+        }
+    }
+}

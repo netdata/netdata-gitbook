@@ -8,6 +8,8 @@ This repository holds the Netdata GitBook documentation files. All content is sy
 
 If you are unfamiliar with Netdata please consult the [main GitHub repository](https://github.com/firehol/netdata) or [official website](https://my-netdata.io/).
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/linuxnetdata.svg?style=social&label=Follow%20Netdata%20on%20Twitter)](https://twitter.com/linuxnetdata)
+
 ---
 
 **Documentation Currently Under Construction!**
